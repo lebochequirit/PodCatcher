@@ -1,4 +1,4 @@
-Um das PodCatcher-Plugin auszuführen braucht es im Userbezogene Pluginverzeichniss (<XBMC-Home>/userdata/addon_data/plugin.audio.PodCatcher/) eine Datei namens opml.xml. Diese sollte am besten mittels eines Feedreaders erstellt werden. Das sparrt arbeit! Das Podcatcher Addon unterstützt folgende OPML - Outline Attribute:
+Um das PodCatcher-Plugin auszuführen braucht es im Userbezogene Pluginverzeichnis (<XBMC-Home>/userdata/addon_data/plugin.audio.PodCatcher/) eine Datei namens opml.xml. Diese sollte am besten mittels eines Feedreaders erstellt werden. Das sparrt arbeit! Das Podcatcher Addon unterstützt folgende OPML - Outline Attribute:
   * xmlUrl = link zum Feed
   * type = art des Feeds
   * text = (userdefinierter) Title des Feeds
